@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>p.jpg</file>
+        <file>galaxy.jpg</file>
+        <file>green.jpg</file>
+        <file>brown.jpg</file>
+        <file>param.jpg</file>
+        <file>exit.png</file>
+        <file>exitactiv.png</file>
+        <file>paractiv.png</file>
+        <file>par2.png</file>
+        <file>par1.png</file>
+        <file>par3.png</file>
+        <file>par4.png</file>
+        <file>coffee.jpg</file>
+        <file>desk.jpg</file>
+        <file>fon.jpg</file>
+        <file>fon2.jpg</file>
+    </qresource>
+</RCC>
